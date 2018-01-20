@@ -1,2 +1,2 @@
-# hello-word
-firts GitHub
+# hello-word 
+My firts GitHub
